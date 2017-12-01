@@ -12,10 +12,10 @@
 # Controlls
 
   Movement:<br />
-    UP - Up Arrow<br />
-    DOWN - Down Arrow<br />
-    LEFT - Left Arrow<br />
-    RIGHT - Right Arrow<br />
+    UP - 'W'<br />
+    DOWN - 'S'<br />
+    LEFT - 'A'<br />
+    RIGHT - 'D'<br />
     ROTATE LEFT - 'Q'<br />
     ROTATE RIGHT - 'E'<br />
   
