@@ -12,7 +12,7 @@
 # Controlls
 
   Movement:
-    UP - Up Arrow
+    UP - Up Arrow\n
     DOWN - Down Arrow
     LEFT - Left Arrow
     RIGHT - Right Arrow
