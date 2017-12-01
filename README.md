@@ -7,3 +7,18 @@
   Also tell me what you think that I could add to the game in the future.
 
   PS: There is a Mouse.java class int the source, it is not working for now, I just left it there because I didn't want to lose that piece of code if in the future I'd want to add it to the project.
+
+
+# Controlls
+
+  Movement:
+    UP - Up Arrow
+    DOWN - Down Arrow
+    LEFT - Left Arrow
+    RIGHT - Right Arrow
+    ROTATE LEFT - 'Q'
+    ROTATE RIGHT - 'E'
+  
+  Shoot:
+    BULLETS - Space Bar
+    GRENADES - 'N'
