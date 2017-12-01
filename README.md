@@ -11,14 +11,14 @@
 
 # Controlls
 
-  Movement:
-    UP - Up Arrow\n
-    DOWN - Down Arrow
-    LEFT - Left Arrow
-    RIGHT - Right Arrow
-    ROTATE LEFT - 'Q'
-    ROTATE RIGHT - 'E'
+  Movement:<br />
+    UP - Up Arrow<br />
+    DOWN - Down Arrow<br />
+    LEFT - Left Arrow<br />
+    RIGHT - Right Arrow<br />
+    ROTATE LEFT - 'Q'<br />
+    ROTATE RIGHT - 'E'<br />
   
-  Shoot:
-    BULLETS - Space Bar
-    GRENADES - 'N'
+  Shoot:<br />
+    BULLETS - Space Bar<br />
+    GRENADES - 'N'<br />
